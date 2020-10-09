@@ -1,1 +1,9 @@
+nama: acidmenu
+main: AcidIsland\Main
+api: 3.0.0
+author: VeterTR
+version: 1.0.0
 
+commands:
+  acidmenu:
+    description: "AcidMenu Perpect UI"
